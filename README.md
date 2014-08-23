@@ -77,5 +77,5 @@ You can contact the original author on GitHub, at tomschenkjr@gmail.com, or on T
 
 [poster]: http://tomschenkjr.files.wordpress.com/2009/10/visualizing-transitions-poster-copy1.pdf
 [Circos]: http://circos.ca/
-["Measuring Transitions into the Workforce as a Form of Accountability"]: http://www3.airweb.org/images/irapps32.pdf
+["Measuring Transitions into the Workforce as a Form of Accountability"]: https://www.airweb.org/EducationAndEvents/Publications/ProfessionalFiles/Documents/irapps32.pdf
 [Source Sans Pro]: http://sourceforge.net/projects/sourcesans.adobe/files/
